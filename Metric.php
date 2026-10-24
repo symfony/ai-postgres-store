@@ -16,7 +16,7 @@ use OskarStark\Enum\Trait\Comparable;
 /**
  * @author Denis Zunke <denis.zunke@gmail.com>
  */
-enum Distance: string
+enum Metric: string
 {
     use Comparable;
 
